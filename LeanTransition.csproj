@@ -800,13 +800,13 @@
       <Project>{ea382612-d301-12db-9ff9-9a1122b2a7dd}</Project>
       <Name>CW.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{4f40ee06-1348-bbc2-5a4a-ac2316d610fc}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{ebed11cc-0b0e-f416-92eb-fc5ec8884593}</Project>
       <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{4f40ee06-1348-bbc2-5a4a-ac2316d610fc}</Project>
+      <Name>UnityEditor.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
