@@ -4,6 +4,7 @@
         "LeanCommon",
         "LeanTransition",
         "CW.Common",
+        "UnityEditor.UI",
         "UnityEngine.UI"
     ],
     "includePlatforms": [],

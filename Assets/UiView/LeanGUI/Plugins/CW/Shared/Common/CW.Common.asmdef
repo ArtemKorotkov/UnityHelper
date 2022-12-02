@@ -5,6 +5,7 @@
         "Unity.RenderPipelines.Core.Runtime",
         "Unity.RenderPipelines.HighDefinition.Runtime",
         "JBooth.BetterShaders.Editor",
+        "UnityEditor.UI",
         "UnityEngine.UI"
     ],
     "includePlatforms": [],

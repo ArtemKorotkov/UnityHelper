@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
 using UnityEngine;
+
 
 namespace ScriptableObj.ConfigExample
 {
     [CreateAssetMenu(fileName = "Config", menuName = "ScriptableObject/Config", order = 0)]
-    public class WorldConfig : ScriptableObject
+    public class WorldConfig : SerializedScriptableObject
     {
         public Dictionary<Pet, Parameters> blockSections;
         
