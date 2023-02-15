@@ -620,6 +620,24 @@
      <Reference Include="unityplastic">
      <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Файлы\Projects c#\UnityHelper\Library\PackageCache\com.unity.collab-proxy@1.15.16\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
+     <Reference Include="Sirenix.Utilities.Editor">
+     <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Projects c#\Learning\UnityHelper\Assets\Sirenix\Assemblies\Sirenix.Utilities.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Sirenix.OdinInspector.Editor">
+     <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Projects c#\Learning\UnityHelper\Assets\Sirenix\Assemblies\Sirenix.OdinInspector.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Sirenix.OdinInspector.Attributes">
+     <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Projects c#\Learning\UnityHelper\Assets\Sirenix\Assemblies\Sirenix.OdinInspector.Attributes.dll</HintPath>
+     </Reference>
+     <Reference Include="Sirenix.Serialization.Config">
+     <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Projects c#\Learning\UnityHelper\Assets\Sirenix\Assemblies\Sirenix.Serialization.Config.dll</HintPath>
+     </Reference>
+     <Reference Include="Sirenix.Utilities">
+     <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Projects c#\Learning\UnityHelper\Assets\Sirenix\Assemblies\Sirenix.Utilities.dll</HintPath>
+     </Reference>
+     <Reference Include="Sirenix.Serialization">
+     <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Projects c#\Learning\UnityHelper\Assets\Sirenix\Assemblies\Sirenix.Serialization.dll</HintPath>
+     </Reference>
      <Reference Include="nunit.framework">
      <HintPath>C:\Users\iarte\OneDrive\Рабочий стол\Файлы\Projects c#\UnityHelper\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
