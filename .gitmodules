@@ -1,0 +1,3 @@
+[submodule "SnapTest"]
+	path = SnapTest
+	url = https://github.com/ArtemKorotkov/SnapTest
